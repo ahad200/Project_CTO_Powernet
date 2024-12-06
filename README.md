@@ -23,13 +23,13 @@
 2. Create a image tag:
 
 ```
-<img src="{perintah presiden darurat negara}" />
+<img src="{monyet potong rambut}" />
 ```
 
 or
 
 ```
-![image]({perintah presiden darurat negara})
+![image]({monyet potong rambut})
 ```
 
 3. Paste on your profile 🎉
