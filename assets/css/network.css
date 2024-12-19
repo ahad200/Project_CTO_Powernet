@@ -398,9 +398,13 @@ footer .row {
 }
 
 .service .service-body .service-img .card-img img {
-  width: 80%;
+  width: 50%;
   height: auto;
   margin: 1em;
+}
+
+.service .service-body .service-img .card-img {
+  height: 20rem;
 }
 
 @media (min-width: 992px) {
@@ -430,6 +434,20 @@ footer .row {
 
 .service .service-body .service-img .service-feature li::before {
   content: "✔  ";
+  color: #f44336;
+  margin-right: 1em;
+}
+
+.service-feature h5 {
+  font-size: 16.2px;
+}
+
+.service-feature p {
+  margin-bottom: -.5rem;
+}
+
+.service-feature p::before {
+  content: "●";
   color: #f44336;
   margin-right: 1em;
 }
@@ -470,19 +488,19 @@ footer .row {
 
 @media (min-width: 576px) {
   .service .service-body .service-nav .service-nav-item {
-    width: calc(25% - 0.5em);
+    width: calc(32% - 1em);
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 990px) {
   .service .service-body .service-nav .service-nav-item {
-    width: calc(20% - 0.625em);
+    width: calc(23% - 0.625em);
   }
 }
 
 @media (min-width: 1200px) {
   .service .service-body .service-nav .service-nav-item {
-    width: calc(16.66667% - 0.75em);
+    width: calc(20% - 0.75em);
   }
 }
 
@@ -496,7 +514,7 @@ footer .row {
 }
 
 .service .service-body .service-nav .service-nav-item img {
-  width: 80%;
+  width: 120%;
   height: auto;
 }
 
@@ -635,6 +653,7 @@ section#services-advisory img, section#services-advisory2 img {
 section#product-list div[class^=col-] img {
   width: 80%;
 }
+
 
 section#contact-us {
   margin-top: 3em;
