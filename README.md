@@ -1,13 +1,13 @@
 <h1 align='center'>
-  SURAT PERINTAH PRESIDEN JOKOWI README.mD
+  README.mD
 </h1>
 
 <p align='center'>
-  Improve your README.md profile with JOKOWI <a href='https://www.instagram.com/jokowi/'>here</a>
+  Improve your README.md profile with Me <a'>here</a>
 </p>
 
 <p align='center'>
-  <a href="https://www.instagram.com/jokowi/"><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
+  <a href=""><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
   &nbsp;
   <a href="#"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alexandresanlim/Badges4-README.md-Profile?style=for-the-badge" /></a>
 </p>
@@ -23,13 +23,13 @@
 2. Create a image tag:
 
 ```
-<img src="{monyet potong rambut}" />
+<img src="{tes}" />
 ```
 
 or
 
 ```
-![image]({monyet potong rambut})
+![image]({tes})
 ```
 
 3. Paste on your profile 🎉
